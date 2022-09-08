@@ -1,3 +1,7 @@
-# PRACTICAS DE VISION POR COMPUTADORA
+# PRACTICA 1
 
-## Contenido de prácticas:
+## Familiarización con librerias en python
+
+Librerias utilizadas:
+---------------
+1. skimage
